@@ -1,0 +1,60 @@
+.btn-secondary{
+    background: none!important;
+    border: none!important;
+}
+.background{
+    background: RGB(219, 219, 219)  ;
+    height: 120%;
+  
+}
+p {
+    width: 100%;
+    height: 20px;
+}
+.List{
+    display: flex;
+    flex-direction: column;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 8px;
+    
+}
+.first-list{
+    display: flex;
+    justify-content: center;
+    background: white   ;
+}
+.Add-btn{
+border-radius:50%;
+width: 25px;
+background: green; border: none;
+    }
+    .first-list{
+        display: flex;
+        justify-content: space-between;
+    }
+    .first{
+        display: flex;
+        justify-content: center;
+    
+    }
+    .Add-buttons{
+        display: flex;
+        align-self: center;
+        
+    }
+    .Add-buttons button{
+        height: 20%;
+    }
+    h3{
+        display: flex;
+        
+    }
+    h3 div{
+        margin-left: 10px;
+    }
+    .Price{
+        display: flex;
+        align-self: center;
+        margin-right: 25px;
+    }
